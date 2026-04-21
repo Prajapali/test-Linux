@@ -1,7 +1,7 @@
 # Linux - For Beginers by Praj
 Date: 2026-02-03
 
- Start WSL 
+# Start WSL 
  wsl ~
 
 # See the path 
